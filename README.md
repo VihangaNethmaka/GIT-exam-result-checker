@@ -85,9 +85,9 @@ Examination: General Information Technology Examination
 Year: 2024
 Name: John Doe
 School/ Address: Example College
-Medium: English
+Medium: Sinhala
 Due Year: 2024
-Subject: GIT
+Subject: Paper I & II
 Grade: A
 ======================================================
 ```

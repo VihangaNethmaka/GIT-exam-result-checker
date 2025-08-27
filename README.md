@@ -133,5 +133,6 @@ python3 main.py --start 2000000 --end 2000010
 
 This project is for **educational purposes only**. Please don’t misuse the script or overload the official exam results server.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
